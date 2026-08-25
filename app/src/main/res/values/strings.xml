@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">H10 Research Recorder</string>
+    <string name="ecg_name">ECG + HR/RR Recorder</string>
+    <string name="hr_name">HR / RR View</string>
+    <string name="hr_title">HR and RR vs. Time (for 5 min)</string>
+    <string name="hr_range_title">HR, /sec RR, ms/10</string>
+    <string name="disconnect">DISCONNECT</string>
+    <string name="connectEcg">OPEN ECG + HR/RR RECORDER</string>
+    <string name="connectHr">OPEN HR/RR VIEW</string>
+    <string name="connecting">Connecting to device</string>
+    <string name="connected">Connected!</string>
+    <string name="device_id">device_id</string>
+    <string name="set_id_button">Change device ID</string>
+</resources>

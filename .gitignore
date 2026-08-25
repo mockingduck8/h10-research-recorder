@@ -1,0 +1,22 @@
+# Research data
+*.csv
+*.log
+PolarExperiment/
+
+# Android generated files
+.gradle/
+.idea/
+**/build/
+local.properties
+captures/
+.externalNativeBuild/
+.cxx/
+
+# Build outputs
+*.apk
+*.aab
+
+# Signing keys - NEVER upload
+*.jks
+*.keystore
+key.properties
